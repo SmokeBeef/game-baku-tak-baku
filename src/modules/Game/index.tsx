@@ -1,8 +1,8 @@
 import { Button } from '@/components/ui/button';
 import dataGame from '../../assets/tak-baku-vs-baku.json'
 
-import { memo, useCallback, useEffect, useMemo, useState } from 'react'
-import { Card, CardAction, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { memo, useCallback, useEffect, useState } from 'react'
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
 interface BakuTakBaku {
   baku: string;
@@ -13,7 +13,7 @@ interface BakuTakBaku {
 
 const GamePage = () => {
   const [currentData, setCurrentData] = useState<BakuTakBaku | null>()
-  const [answer, setAnswer] = useState<'baku' | 'tak-baku'>()
+  const [_, setAnswer] = useState<'baku' | 'tak-baku'>()
   const [alreadyAnswer, setAlreadyAnswer] = useState<boolean | null>()
   const [dataTrue, setDataTrue] = useState<'left' | 'rigth'>('left')
 
@@ -25,10 +25,6 @@ const GamePage = () => {
     setAnswer(undefined)
     setAlreadyAnswer(null)
   }, [dataGame, setCurrentData, setDataTrue, setAnswer, setAlreadyAnswer])
-
-  const checkAnswer = useMemo(() => {
-
-  }, [])
 
   const onClikAnswer = useCallback((isBaku: boolean) => {
     setAlreadyAnswer(true)
