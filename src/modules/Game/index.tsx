@@ -4,7 +4,6 @@ import dataGame from '../../assets/tak-baku-vs-baku.json'
 import { memo, useCallback, useMemo, useState } from 'react'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Table, TableBody, TableCaption, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
-import { Github, Instagram } from 'lucide-react';
 
 interface BakuTakBaku {
   baku: string;
