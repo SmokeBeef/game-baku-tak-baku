@@ -5653,5 +5653,1200 @@
         "baku": "zigot",
         "tak-baku": "zygot",
         "pengertian": "perkembangan lanjut pertemuan sel jantan dan betina; sebelum menjadi embrio"
-    }
+    },
+  {
+    "baku": "Allah",
+    "tak-baku": "Alloh",
+    "pengertian": "Nama Tuhan dalam agama Islam"
+  },
+  {
+    "baku": "Alquran",
+    "tak-baku": "Al Qur'an / Al-Quran",
+    "pengertian": "Kitab suci umat Islam"
+  },
+  {
+    "baku": "Asar",
+    "tak-baku": "Azhar / Ashar",
+    "pengertian": "Waktu sore hari; salat wajib pada sore hari"
+  },
+  {
+    "baku": "Buddha",
+    "tak-baku": "Buda / Budha",
+    "pengertian": "Agama yang diajarkan oleh Sidharta Gautama"
+  },
+  {
+    "baku": "Februari",
+    "tak-baku": "February / Pebruari",
+    "pengertian": "Bulan kedua tahun Masehi"
+  },
+  {
+    "baku": "Filipina",
+    "tak-baku": "Philipina",
+    "pengertian": "Nama sebuah negara kepulauan di Asia Tenggara"
+  },
+  {
+    "baku": "Jumat",
+    "tak-baku": "Jum'at",
+    "pengertian": "Hari keenam dalam jangka waktu satu minggu"
+  },
+  {
+    "baku": "Mahakuasa",
+    "tak-baku": "Maha Kuasa",
+    "pengertian": "Teramat kuasa (Sifat Tuhan)"
+  },
+  {
+    "baku": "November",
+    "tak-baku": "Nopember",
+    "pengertian": "Bulan kesebelas tahun Masehi"
+  },
+  {
+    "baku": "Rabu",
+    "tak-baku": "Rebo",
+    "pengertian": "Hari keempat dalam jangka waktu satu minggu"
+  },
+  {
+    "baku": "Ramadan",
+    "tak-baku": "Ramadhan / Romadhon",
+    "pengertian": "Bulan kesembilan tahun Hijriah (bulan puasa)"
+  },
+  {
+    "baku": "Sanskerta",
+    "tak-baku": "Sansekerta",
+    "pengertian": "Bahasa kesusastraan Hindu Kuno"
+  },
+  {
+    "baku": "Yogyakarta",
+    "tak-baku": "Jogjakarta",
+    "pengertian": "Nama daerah istimewa di Indonesia"
+  },
+  {
+    "baku": "aberasi",
+    "tak-baku": "abrasi",
+    "pengertian": "Penyimpangan dari yang umum; tidak wajar"
+  },
+  {
+    "baku": "abjad",
+    "tak-baku": "abjat",
+    "pengertian": "Kumpulan huruf (aksara) berdasarkan urutan yang lazim"
+  },
+  {
+    "baku": "absorpsi",
+    "tak-baku": "absorsi",
+    "pengertian": "Penyerapan; penghisapan"
+  },
+  {
+    "baku": "adab",
+    "tak-baku": "adap",
+    "pengertian": "Kecerdapn dan kehalusan budi pekerti; kesopanan"
+  },
+  {
+    "baku": "adhesi",
+    "tak-baku": "adesi",
+    "pengertian": "Gaya tarik-menarik antarmolekul yang tidak sejenis"
+  },
+  {
+    "baku": "adibusana",
+    "tak-baku": "adi busana",
+    "pengertian": "Busana yang dirancang secara eksklusif dan bernilai seni tinggi"
+  },
+  {
+    "baku": "adik",
+    "tak-baku": "adek",
+    "pengertian": "Saudara yang lebih muda"
+  },
+  {
+    "baku": "administrator",
+    "tak-baku": "admin",
+    "pengertian": "Orang yang bertugas mengurusi administrasi"
+  },
+  {
+    "baku": "advokat",
+    "tak-baku": "adpokat",
+    "pengertian": "Ahli hukum yang berwenang sebagai penasihat atau pembela perkara"
+  },
+  {
+    "baku": "afdal",
+    "tak-baku": "afdol",
+    "pengertian": "Lebih baik; lebih utama; lengkap"
+  },
+  {
+    "baku": "agamais",
+    "tak-baku": "agamis",
+    "pengertian": "Bersifat keagamaan; patuh pada agama"
+  },
+  {
+    "baku": "akhirat",
+    "tak-baku": "akherat",
+    "pengertian": "Alam setelah kehidupan di dunia"
+  },
+  {
+    "baku": "akhlak",
+    "tak-baku": "akhlaq",
+    "pengertian": "Budi pekerti; kelakuan"
+  },
+  {
+    "baku": "aki",
+    "tak-baku": "accu",
+    "pengertian": "Alat himpun tenaga listrik (akumulator)"
+  },
+  {
+    "baku": "aksesori",
+    "tak-baku": "aksesoris / asesori",
+    "pengertian": "Barang tambahan; alat ekstra"
+  },
+  {
+    "baku": "akta",
+    "tak-baku": "akte",
+    "pengertian": "Surat tanda bukti berisi pengakuan yang sah (keputusan, dsb)"
+  },
+  {
+    "baku": "aktif",
+    "tak-baku": "aktip / aktive",
+    "pengertian": "Giat (bekerja, berusaha)"
+  },
+  {
+    "baku": "aktivitas",
+    "tak-baku": "aktifitas",
+    "pengertian": "Keaktifan; kegiatan; kesibukan"
+  },
+  {
+    "baku": "aktual",
+    "tak-baku": "aktuil",
+    "pengertian": "Betul-betul ada (terjadi); sesungguhnya; baru saja terjadi"
+  },
+  {
+    "baku": "akuarium",
+    "tak-baku": "aquarium",
+    "pengertian": "Bak kaca (tempat memelihara ikan hias)"
+  },
+  {
+    "baku": "akuntansi",
+    "tak-baku": "akutansi",
+    "pengertian": "Seni pencatatan dan pengikhtisaran transaksi keuangan"
+  },
+  {
+    "baku": "alarm",
+    "tak-baku": "alaram",
+    "pengertian": "Sinyal, bunyi, atau tanda peringatan bahaya"
+  },
+  {
+    "baku": "alinea",
+    "tak-baku": "alenia",
+    "pengertian": "Bagian wacana yang mengungkapkan satu pikiran lengkap (paragraf)"
+  },
+  {
+    "baku": "alternatif",
+    "tak-baku": "alternatip",
+    "pengertian": "Pilihan di antara dua atau beberapa kemungkinan"
+  },
+  {
+    "baku": "aluminium",
+    "tak-baku": "almunium",
+    "pengertian": "Logam ringan berwarna putih keperakan"
+  },
+  {
+    "baku": "ambeien",
+    "tak-baku": "ambeyen",
+    "pengertian": "Wasir"
+  },
+  {
+    "baku": "ambulans",
+    "tak-baku": "ambulan / ambulance",
+    "pengertian": "Kendaraan untuk mengangkut orang sakit"
+  },
+  {
+    "baku": "amendemen",
+    "tak-baku": "amandemen",
+    "pengertian": "Usul perubahan undang-undang"
+  },
+  {
+    "baku": "amfibi",
+    "tak-baku": "amphibi",
+    "pengertian": "Hewan yang hidup di dua alam (air dan darat)"
+  },
+  {
+    "baku": "analisis",
+    "tak-baku": "analisa",
+    "pengertian": "Penyelidikan terhadap suatu peristiwa untuk mengetahui keadaan sebenarnya"
+  },
+  {
+    "baku": "andal",
+    "tak-baku": "handal",
+    "pengertian": "Dapat dipercaya"
+  },
+  {
+    "baku": "anestesi",
+    "tak-baku": "anestesia",
+    "pengertian": "Hilangnya rasa pada tubuh (bius)"
+  },
+  {
+    "baku": "anggota",
+    "tak-baku": "anggauta",
+    "pengertian": "Bagian dari suatu golongan (tubuh, perkumpulan, dsb)"
+  },
+  {
+    "baku": "antre",
+    "tak-baku": "antri",
+    "pengertian": "Berdiri berderet-deret ke belakang menunggu giliran"
+  },
+  {
+    "baku": "antrean",
+    "tak-baku": "antrian",
+    "pengertian": "Giliran menunggu"
+  },
+  {
+    "baku": "anugerah",
+    "tak-baku": "anugrah",
+    "pengertian": "Pemberian atau karunia dari Tuhan"
+  },
+  {
+    "baku": "apa pun",
+    "tak-baku": "apapun",
+    "pengertian": "Segala sesuatu"
+  },
+  {
+    "baku": "apotek",
+    "tak-baku": "apotik",
+    "pengertian": "Toko tempat meramu dan menjual obat"
+  },
+  {
+    "baku": "aritmetika",
+    "tak-baku": "aritmatika",
+    "pengertian": "Ilmu hitung"
+  },
+  {
+    "baku": "asas",
+    "tak-baku": "azas",
+    "pengertian": "Dasar; fundamen"
+  },
+  {
+    "baku": "asli",
+    "tak-baku": "aseli",
+    "pengertian": "Tidak ada campurannya; tulen"
+  },
+  {
+    "baku": "astronaut",
+    "tak-baku": "astronot",
+    "pengertian": "Orang yang menjalani latihan untuk penerbangan antariksa"
+  },
+  {
+    "baku": "asyik",
+    "tak-baku": "asik",
+    "pengertian": "Sangat suka; sibuk melakukan sesuatu dengan gembira"
+  },
+  {
+    "baku": "ateis",
+    "tak-baku": "atheis",
+    "pengertian": "Orang yang tidak percaya adanya Tuhan"
+  },
+  {
+    "baku": "atlet",
+    "tak-baku": "atlit",
+    "pengertian": "Olahragawan"
+  },
+  {
+    "baku": "atmosfer",
+    "tak-baku": "atmosfir",
+    "pengertian": "Lapisan udara yang menyelubungi bumi"
+  },
+  {
+    "baku": "autentik",
+    "tak-baku": "otentik",
+    "pengertian": "Dapat dipercaya; asli; sah"
+  },
+  {
+    "baku": "autodidak",
+    "tak-baku": "otodidak",
+    "pengertian": "Orang yang mendapat keahlian dengan belajar sendiri"
+  },
+  {
+    "baku": "autopsi",
+    "tak-baku": "otopsi",
+    "pengertian": "Pemeriksaan mayat (bedah mayat)"
+  },
+  {
+    "baku": "azan",
+    "tak-baku": "adzan",
+    "pengertian": "Seruan untuk mengajak orang melakukan salat"
+  },
+  {
+    "baku": "baterai",
+    "tak-baku": "batere / batre",
+    "pengertian": "Alat untuk menghimpun dan membangkitkan aliran listrik"
+  },
+  {
+    "baku": "batalion",
+    "tak-baku": "batalyon",
+    "pengertian": "Kesatuan tentara"
+  },
+  {
+    "baku": "belum",
+    "tak-baku": "belom",
+    "pengertian": "Masih dalam keadaan tidak"
+  },
+  {
+    "baku": "berandal",
+    "tak-baku": "brandal",
+    "pengertian": "Orang yang tidak menuruti peraturan; pengacau"
+  },
+  {
+    "baku": "berpikir",
+    "tak-baku": "berfikir",
+    "pengertian": "Menggunakan akal budi untuk mempertimbangkan sesuatu"
+  },
+  {
+    "baku": "berserta",
+    "tak-baku": "beserta",
+    "pengertian": "Bersama-sama dengan"
+  },
+  {
+    "baku": "bertanggung jawab",
+    "tak-baku": "bertanggungjawab",
+    "pengertian": "Berkewajiban menanggung segala sesuatunya (ditulis terpisah)"
+  },
+  {
+    "baku": "biaya",
+    "tak-baku": "beaya",
+    "pengertian": "Uang yang dikeluarkan untuk mengadakan sesuatu"
+  },
+  {
+    "baku": "biliar",
+    "tak-baku": "bilyar",
+    "pengertian": "Permainan bola sodok"
+  },
+  {
+    "baku": "biosfer",
+    "tak-baku": "biosfir",
+    "pengertian": "Bagian bumi dan atmosfer tempat makhluk hidup dapat hidup"
+  },
+  {
+    "baku": "biskuit",
+    "tak-baku": "biscuit",
+    "pengertian": "Kue kering yang dibuat dari tepung"
+  },
+  {
+    "baku": "bolpoin",
+    "tak-baku": "balpoin / bolpen",
+    "pengertian": "Pena yang matanya berupa bola kecil (pena bola)"
+  },
+  {
+    "baku": "bonafide",
+    "tak-baku": "bonafid",
+    "pengertian": "Dapat dipercaya (tentang perusahaan dsb)"
+  },
+  {
+    "baku": "brankas",
+    "tak-baku": "brangkas",
+    "pengertian": "Lemari besi tempat menyimpan uang"
+  },
+  {
+    "baku": "bus",
+    "tak-baku": "bis",
+    "pengertian": "Kendaraan bermotor angkutan umum yang besar"
+  },
+  {
+    "baku": "cabai",
+    "tak-baku": "cabe",
+    "pengertian": "Tanaman yang buahnya rasanya pedas (lombok)"
+  },
+  {
+    "baku": "capai",
+    "tak-baku": "capek",
+    "pengertian": "Lelah; letih"
+  },
+  {
+    "baku": "cedera",
+    "tak-baku": "cidera",
+    "pengertian": "Cacat (luka) sedikit"
+  },
+  {
+    "baku": "cendekiawan",
+    "tak-baku": "cendikiawan",
+    "pengertian": "Orang cerdik pandai; intelek"
+  },
+  {
+    "baku": "cenderamata",
+    "tak-baku": "cinderamata",
+    "pengertian": "Pemberian (tanda mata)"
+  },
+  {
+    "baku": "cokelat",
+    "tak-baku": "coklat",
+    "pengertian": "Bubuk dari biji kakao; warna merah kehitam-hitaman"
+  },
+  {
+    "baku": "daftar",
+    "tak-baku": "daptar",
+    "pengertian": "Susunan nama (benda) yang ditulis berurut ke bawah"
+  },
+  {
+    "baku": "dai",
+    "tak-baku": "da'i",
+    "pengertian": "Orang yang berdakwah"
+  },
+  {
+    "baku": "dakwah",
+    "tak-baku": "da'wah",
+    "pengertian": "Penyiaran agama dan pengembangannya"
+  },
+  {
+    "baku": "darma",
+    "tak-baku": "dharma",
+    "pengertian": "Kewajiban; tugas hidup"
+  },
+  {
+    "baku": "debit",
+    "tak-baku": "debet",
+    "pengertian": "Jumlah uang yang harus ditagih"
+  },
+  {
+    "baku": "dekoratif",
+    "tak-baku": "dekoratip",
+    "pengertian": "Bersifat menghiasi"
+  },
+  {
+    "baku": "dekret",
+    "tak-baku": "dekrit",
+    "pengertian": "Keputusan (perintah) yang dikeluarkan oleh kepala negara"
+  },
+  {
+    "baku": "depot",
+    "tak-baku": "depo",
+    "pengertian": "Tempat menyimpan barang dagangan"
+  },
+  {
+    "baku": "desain",
+    "tak-baku": "design / disain",
+    "pengertian": "Rancangan; pola"
+  },
+  {
+    "baku": "deskripsi",
+    "tak-baku": "diskripsi",
+    "pengertian": "Pemaparan atau penggambaran dengan kata-kata"
+  },
+  {
+    "baku": "detail",
+    "tak-baku": "detil",
+    "pengertian": "Bagian yang kecil-kecil; rincian"
+  },
+  {
+    "baku": "detergen",
+    "tak-baku": "deterjen",
+    "pengertian": "Bahan pembersih pakaian"
+  },
+  {
+    "baku": "diagnosis",
+    "tak-baku": "diagnosa",
+    "pengertian": "Penentuan jenis penyakit dengan meneliti gejala-gejalanya"
+  },
+  {
+    "baku": "di mana",
+    "tak-baku": "dimana",
+    "pengertian": "Kata tanya untuk menanyakan tempat (dipisah)"
+  },
+  {
+    "baku": "diskotek",
+    "tak-baku": "diskotik",
+    "pengertian": "Tempat hiburan dengan musik"
+  },
+  {
+    "baku": "doa",
+    "tak-baku": "do'a",
+    "pengertian": "Permohonan (harapan, permintaan) kepada Tuhan"
+  },
+  {
+    "baku": "dolar",
+    "tak-baku": "dollar",
+    "pengertian": "Mata uang Amerika Serikat"
+  },
+  {
+    "baku": "durian",
+    "tak-baku": "duren",
+    "pengertian": "Buah kulitnya berduri dan berbau menyengat"
+  },
+  {
+    "baku": "efektif",
+    "tak-baku": "efektip / epektif",
+    "pengertian": "Ada efeknya; manjur; berhasil guna"
+  },
+  {
+    "baku": "efektivitas",
+    "tak-baku": "efektifitas",
+    "pengertian": "Keaktifan; daya guna"
+  },
+  {
+    "baku": "eksem",
+    "tak-baku": "eksim",
+    "pengertian": "Penyakit kulit"
+  },
+  {
+    "baku": "ekspor",
+    "tak-baku": "eksport",
+    "pengertian": "Pengiriman barang ke luar negeri"
+  },
+  {
+    "baku": "ekstrem",
+    "tak-baku": "ekstrim",
+    "pengertian": "Paling ujung; sangat keras"
+  },
+  {
+    "baku": "ekuivalen",
+    "tak-baku": "ekwivalen",
+    "pengertian": "Mempunyai nilai yang sama"
+  },
+  {
+    "baku": "elite",
+    "tak-baku": "elit",
+    "pengertian": "Kelompok kecil orang-orang terpandang"
+  },
+  {
+    "baku": "embus",
+    "tak-baku": "hembus",
+    "pengertian": "Tiup"
+  },
+  {
+    "baku": "faksimile",
+    "tak-baku": "faksimil",
+    "pengertian": "Mesin pengirim dokumen"
+  },
+  {
+    "baku": "paham",
+    "tak-baku": "faham",
+    "pengertian": "Mengerti benar; pendapat"
+  },
+  {
+    "baku": "fasih",
+    "tak-baku": "faseh",
+    "pengertian": "Lancar dan baik lafalnya (berbicara)"
+  },
+  {
+    "baku": "pikir",
+    "tak-baku": "fikir",
+    "pengertian": "Akal budi; ingatan"
+  },
+  {
+    "baku": "fondasi",
+    "tak-baku": "pondasi",
+    "pengertian": "Dasar bangunan yang kuat"
+  },
+  {
+    "baku": "foto",
+    "tak-baku": "photo",
+    "pengertian": "Potret; gambar yang dibuat dengan kamera"
+  },
+  {
+    "baku": "fotokopi",
+    "tak-baku": "foto copy",
+    "pengertian": "Hasil reproduksi fotografis"
+  },
+  {
+    "baku": "frekuensi",
+    "tak-baku": "frekwensi",
+    "pengertian": "Kekerapan; jumlah getaran gelombang"
+  },
+  {
+    "baku": "frustrasi",
+    "tak-baku": "frustasi",
+    "pengertian": "Rasa kecewa karena kegagalan"
+  },
+  {
+    "baku": "geladi",
+    "tak-baku": "gladi",
+    "pengertian": "Berlatih; latihan"
+  },
+  {
+    "baku": "gizi",
+    "tak-baku": "gisi",
+    "pengertian": "Zat makanan pokok yang diperlukan bagi pertumbuhan dan kesehatan"
+  },
+  {
+    "baku": "glamor",
+    "tak-baku": "glamour",
+    "pengertian": "Serba gemerlap"
+  },
+  {
+    "baku": "guncang",
+    "tak-baku": "goncang",
+    "pengertian": "Goyang (cepat dan keras)"
+  },
+  {
+    "baku": "gua",
+    "tak-baku": "goa",
+    "pengertian": "Liang (lubang) besar pada kaki gunung dsb"
+  },
+  {
+    "baku": "gubuk",
+    "tak-baku": "gubug",
+    "pengertian": "Rumah kecil (biasanya di sawah)"
+  },
+  {
+    "baku": "hadis",
+    "tak-baku": "hadist",
+    "pengertian": "Sabda, perbuatan, dan persetujuan Nabi Muhammad saw"
+  },
+  {
+    "baku": "hafal",
+    "tak-baku": "hapal",
+    "pengertian": "Telah masuk dalam ingatan"
+  },
+  {
+    "baku": "hakikat",
+    "tak-baku": "hakekat",
+    "pengertian": "Intisari atau dasar"
+  },
+  {
+    "baku": "hektare",
+    "tak-baku": "hektar",
+    "pengertian": "Satuan ukuran luas (10.000 m2)"
+  },
+  {
+    "baku": "hierarki",
+    "tak-baku": "hirarki",
+    "pengertian": "Urutan tingkatan atau jenjang jabatan"
+  },
+  {
+    "baku": "higiene",
+    "tak-baku": "higiena",
+    "pengertian": "Ilmu tentang kesehatan"
+  },
+  {
+    "baku": "hipotesis",
+    "tak-baku": "hipotesa",
+    "pengertian": "Anggapan dasar yang masih harus dibuktikan"
+  },
+  {
+    "baku": "hobi",
+    "tak-baku": "hobby",
+    "pengertian": "Kegemaran; kesenangan istimewa"
+  },
+  {
+    "baku": "ijazah",
+    "tak-baku": "ijasah",
+    "pengertian": "Surat tanda tamat belajar"
+  },
+  {
+    "baku": "ikhlas",
+    "tak-baku": "ihlas",
+    "pengertian": "Tulus hati"
+  },
+  {
+    "baku": "imbau",
+    "tak-baku": "himbau",
+    "pengertian": "Panggil; sebut"
+  },
+  {
+    "baku": "impor",
+    "tak-baku": "import",
+    "pengertian": "Pemasukan barang dari luar negeri"
+  },
+  {
+    "baku": "indra",
+    "tak-baku": "indera",
+    "pengertian": "Alat untuk merasa, mencium, mendengar, melihat, meraba"
+  },
+  {
+    "baku": "insaf",
+    "tak-baku": "insyaf",
+    "pengertian": "Sadar; mengerti"
+  },
+  {
+    "baku": "inteligensi",
+    "tak-baku": "intelegensi",
+    "pengertian": "Kecerdasan; daya tangkap"
+  },
+  {
+    "baku": "interogasi",
+    "tak-baku": "interograsi",
+    "pengertian": "Pertanyaan; pemeriksaan"
+  },
+  {
+    "baku": "istri",
+    "tak-baku": "isteri",
+    "pengertian": "Wanita yang telah menikah"
+  },
+  {
+    "baku": "izin",
+    "tak-baku": "ijin",
+    "pengertian": "Pernyataan mengabulkan"
+  },
+  {
+    "baku": "jadwal",
+    "tak-baku": "jadual",
+    "pengertian": "Pembagian waktu berdasarkan rencana pengaturan urutan kerja"
+  },
+  {
+    "baku": "jenazah",
+    "tak-baku": "jenasah",
+    "pengertian": "Mayat"
+  },
+  {
+    "baku": "jenderal",
+    "tak-baku": "jendral",
+    "pengertian": "Pangkat tertinggi dalam angkatan darat"
+  },
+  {
+    "baku": "justru",
+    "tak-baku": "justeru",
+    "pengertian": "Kata penghubung untuk menegaskan bahwa yang benar adalah kebalikannya"
+  },
+  {
+    "baku": "kacamata",
+    "tak-baku": "kaca mata",
+    "pengertian": "Lensa tipis untuk membantu penglihatan (ditulis serangkai)"
+  },
+  {
+    "baku": "kaidah",
+    "tak-baku": "kaedah",
+    "pengertian": "Rumusan asas yang menjadi hukum; aturan"
+  },
+  {
+    "baku": "kanguru",
+    "tak-baku": "kangguru",
+    "pengertian": "Binatang menyusui berkantung (khas Australia)"
+  },
+  {
+    "baku": "kanker",
+    "tak-baku": "kangker",
+    "pengertian": "Penyakit tumor ganas"
+  },
+  {
+    "baku": "karena",
+    "tak-baku": "karna",
+    "pengertian": "Sebab"
+  },
+  {
+    "baku": "karier",
+    "tak-baku": "karir",
+    "pengertian": "Perkembangan dan kemajuan dalam pekerjaan"
+  },
+  {
+    "baku": "karisma",
+    "tak-baku": "kharisma",
+    "pengertian": "Keadaan atau bakat yang menghubungkan kualitas diri"
+  },
+  {
+    "baku": "kategori",
+    "tak-baku": "katagori",
+    "pengertian": "Golongan; jenis"
+  },
+  {
+    "baku": "khotbah",
+    "tak-baku": "khutbah",
+    "pengertian": "Pidato (terutama yang menguraikan ajaran agama)"
+  },
+  {
+    "baku": "kiai",
+    "tak-baku": "kyai",
+    "pengertian": "Sebutan bagi ulama atau guru agama Islam"
+  },
+  {
+    "baku": "klien",
+    "tak-baku": "clien",
+    "pengertian": "Orang yang memperoleh bantuan hukum; pelanggan"
+  },
+  {
+    "baku": "komoditas",
+    "tak-baku": "komoditi",
+    "pengertian": "Barang dagangan utama"
+  },
+  {
+    "baku": "komplet",
+    "tak-baku": "komplit",
+    "pengertian": "Lengkap"
+  },
+  {
+    "baku": "konkret",
+    "tak-baku": "kongkrit",
+    "pengertian": "Nyata; benar-benar ada"
+  },
+  {
+    "baku": "koper",
+    "tak-baku": "kopor",
+    "pengertian": "Kotak besar tempat menyimpan pakaian"
+  },
+  {
+    "baku": "kreatif",
+    "tak-baku": "kreatip",
+    "pengertian": "Memiliki kemampuan untuk menciptakan"
+  },
+  {
+    "baku": "kualitas",
+    "tak-baku": "kwalitas",
+    "pengertian": "Tingkat baik buruknya sesuatu; mutu"
+  },
+  {
+    "baku": "kuantitas",
+    "tak-baku": "kwantitas",
+    "pengertian": "Jumlah; banyaknya"
+  },
+  {
+    "baku": "kuitansi",
+    "tak-baku": "kwitansi",
+    "pengertian": "Surat bukti penerimaan uang"
+  },
+  {
+    "baku": "kurma",
+    "tak-baku": "korma",
+    "pengertian": "Pohon (buah) yang tumbuh di daerah Arab"
+  },
+  {
+    "baku": "lafal",
+    "tak-baku": "lapal",
+    "pengertian": "Cara pengucapan bunyi bahasa"
+  },
+  {
+    "baku": "legalisasi",
+    "tak-baku": "legalisir",
+    "pengertian": "Pengesahan"
+  },
+  {
+    "baku": "lemari",
+    "tak-baku": "almari",
+    "pengertian": "Peti besar tempat menyimpan sesuatu"
+  },
+  {
+    "baku": "lembap",
+    "tak-baku": "lembab",
+    "pengertian": "Mengandung air; tidak kering benar"
+  },
+  {
+    "baku": "lubang",
+    "tak-baku": "lobang",
+    "pengertian": "Liang"
+  },
+  {
+    "baku": "maaf",
+    "tak-baku": "ma'af",
+    "pengertian": "Ampunan"
+  },
+  {
+    "baku": "mabuk",
+    "tak-baku": "mabok",
+    "pengertian": "Berasa pening; hilang kesadaran"
+  },
+  {
+    "baku": "mag",
+    "tak-baku": "maag",
+    "pengertian": "Lambung"
+  },
+  {
+    "baku": "makhluk",
+    "tak-baku": "mahluk",
+    "pengertian": "Sesuatu yang dijadikan (diciptakan) oleh Tuhan"
+  },
+  {
+    "baku": "malapraktik",
+    "tak-baku": "malpraktek",
+    "pengertian": "Praktik (kedokteran) yang salah atau tidak tepat"
+  },
+  {
+    "baku": "manajer",
+    "tak-baku": "manager",
+    "pengertian": "Orang yang mengatur pekerjaan"
+  },
+  {
+    "baku": "mantra",
+    "tak-baku": "mantera",
+    "pengertian": "Perkataan atau ucapan yang mendatangkan daya gaib"
+  },
+  {
+    "baku": "masjid",
+    "tak-baku": "mesjid",
+    "pengertian": "Rumah tempat ibadah umat Islam"
+  },
+  {
+    "baku": "masyhur",
+    "tak-baku": "mashur",
+    "pengertian": "Dikenal orang banyak; terkenal"
+  },
+  {
+    "baku": "matahari",
+    "tak-baku": "mentari",
+    "pengertian": "Benda angkasa pusat tata surya (ditulis serangkai)"
+  },
+  {
+    "baku": "mazhab",
+    "tak-baku": "madzab",
+    "pengertian": "Aliran (dalam hukum fikih dsb)"
+  },
+  {
+    "baku": "merek",
+    "tak-baku": "merk",
+    "pengertian": "Tanda yang dikenakan pada barang dagangan"
+  },
+  {
+    "baku": "meterai",
+    "tak-baku": "materai",
+    "pengertian": "Cap tanda berupa gambar (pada perangko dsb)"
+  },
+  {
+    "baku": "metode",
+    "tak-baku": "metoda",
+    "pengertian": "Cara kerja yang bersistem"
+  },
+  {
+    "baku": "miliar",
+    "tak-baku": "milyar",
+    "pengertian": "Seribu juta"
+  },
+  {
+    "baku": "museum",
+    "tak-baku": "musium",
+    "pengertian": "Gedung tempat menyimpan benda bersejarah"
+  },
+  {
+    "baku": "nakhoda",
+    "tak-baku": "nahkoda",
+    "pengertian": "Pemimpin kapal"
+  },
+  {
+    "baku": "napas",
+    "tak-baku": "nafas",
+    "pengertian": "Udara yang diisap dan dikeluarkan melalui hidung"
+  },
+  {
+    "baku": "nasihat",
+    "tak-baku": "nasehat",
+    "pengertian": "Ajaran atau pelajaran baik; anjuran"
+  },
+  {
+    "baku": "negeri",
+    "tak-baku": "negri",
+    "pengertian": "Wilayah; tanah tempat tinggal"
+  },
+  {
+    "baku": "nomor",
+    "tak-baku": "nomer",
+    "pengertian": "Angka yang menunjukkan kedudukan"
+  },
+  {
+    "baku": "objek",
+    "tak-baku": "obyek",
+    "pengertian": "Hal atau sasaran yang dibicarakan"
+  },
+  {
+    "baku": "objektif",
+    "tak-baku": "obyektif",
+    "pengertian": "Mengenai keadaan yang sebenarnya"
+  },
+  {
+    "baku": "paham",
+    "tak-baku": "faham",
+    "pengertian": "Mengerti benar; pendapat"
+  },
+  {
+    "baku": "pikir",
+    "tak-baku": "fikir",
+    "pengertian": "Akal budi; ingatan"
+  },
+  {
+    "baku": "praktik",
+    "tak-baku": "praktek",
+    "pengertian": "Pelaksanaan secara nyata apa yang disebut dalam teori"
+  },
+  {
+    "baku": "provinsi",
+    "tak-baku": "propinsi",
+    "pengertian": "Wilayah administratif di bawah negara"
+  },
+  {
+    "baku": "putra",
+    "tak-baku": "putera",
+    "pengertian": "Anak laki-laki"
+  },
+  {
+    "baku": "putri",
+    "tak-baku": "puteri",
+    "pengertian": "Anak perempuan"
+  },
+  {
+    "baku": "rapi",
+    "tak-baku": "rapih",
+    "pengertian": "Baik, teratur, dan bersih"
+  },
+  {
+    "baku": "rapor",
+    "tak-baku": "raport / rapot",
+    "pengertian": "Buku laporan prestasi belajar"
+  },
+  {
+    "baku": "risiko",
+    "tak-baku": "resiko",
+    "pengertian": "Akibat yang kurang menyenangkan"
+  },
+  {
+    "baku": "roboh",
+    "tak-baku": "rubuh",
+    "pengertian": "Runtuh; tumbang (tentang bangunan besar, pohon)"
+  },
+  {
+    "baku": "sahabat",
+    "tak-baku": "sobat",
+    "pengertian": "Kawan; teman"
+  },
+  {
+    "baku": "saksama",
+    "tak-baku": "seksama",
+    "pengertian": "Teliti; cermat"
+  },
+  {
+    "baku": "salat",
+    "tak-baku": "shalat / sholat",
+    "pengertian": "Ibadah wajib umat Islam lima kali sehari"
+  },
+  {
+    "baku": "saraf",
+    "tak-baku": "syaraf",
+    "pengertian": "Jaringan tubuh yang menyalurkan rangsangan"
+  },
+  {
+    "baku": "satai",
+    "tak-baku": "sate",
+    "pengertian": "Irisan daging kecil-kecil yang dipanggang"
+  },
+  {
+    "baku": "sekadar",
+    "tak-baku": "sekedar",
+    "pengertian": "Hanya untuk; seperlunya"
+  },
+  {
+    "baku": "sekretaris",
+    "tak-baku": "sekertaris",
+    "pengertian": "Orang yang mengurus pekerjaan administrasi (tulis-menulis)"
+  },
+  {
+    "baku": "silakan",
+    "tak-baku": "silahkan",
+    "pengertian": "Sudilah kiranya (kata perintah yang halus)"
+  },
+  {
+    "baku": "sistem",
+    "tak-baku": "sistim",
+    "pengertian": "Perangkat unsur yang teratur"
+  },
+  {
+    "baku": "sopir",
+    "tak-baku": "supir",
+    "pengertian": "Pengemudi mobil"
+  },
+  {
+    "baku": "standar",
+    "tak-baku": "standard / standart",
+    "pengertian": "Ukuran tertentu yang dipakai sebagai patokan"
+  },
+  {
+    "baku": "stres",
+    "tak-baku": "stress",
+    "pengertian": "Gangguan mental atau emosional"
+  },
+  {
+    "baku": "subjek",
+    "tak-baku": "subyek",
+    "pengertian": "Pokok pembicaraan; pelaku"
+  },
+  {
+    "baku": "surga",
+    "tak-baku": "sorga",
+    "pengertian": "Alam akhirat yang penuh kebahagiaan"
+  },
+  {
+    "baku": "survei",
+    "tak-baku": "surve / survey",
+    "pengertian": "Penyelidikan; peninjauan"
+  },
+  {
+    "baku": "sutra",
+    "tak-baku": "sutera",
+    "pengertian": "Benang halus dari kepompong ulat sutra"
+  },
+  {
+    "baku": "takhta",
+    "tak-baku": "tahta",
+    "pengertian": "Kursi raja; kekuasaan"
+  },
+  {
+    "baku": "tampak",
+    "tak-baku": "nampak",
+    "pengertian": "Dapat dilihat; kelihatan"
+  },
+  {
+    "baku": "teknik",
+    "tak-baku": "tehnik",
+    "pengertian": "Metode atau sistem mengerjakan sesuatu; cara"
+  },
+  {
+    "baku": "teknologi",
+    "tak-baku": "tehnologi",
+    "pengertian": "Ilmu tentang cara teknis (industri dsb)"
+  },
+  {
+    "baku": "teladan",
+    "tak-baku": "tauladan",
+    "pengertian": "Sesuatu yang patut ditiru atau dicontoh"
+  },
+  {
+    "baku": "telur",
+    "tak-baku": "telor",
+    "pengertian": "Benda bercangkang yang berisi calon anak (unggas dsb)"
+  },
+  {
+    "baku": "teoretis",
+    "tak-baku": "teoritis",
+    "pengertian": "Berdasarkan teori"
+  },
+  {
+    "baku": "terampil",
+    "tak-baku": "trampil",
+    "pengertian": "Cakap dalam menyelesaikan tugas; cekatan"
+  },
+  {
+    "baku": "terima kasih",
+    "tak-baku": "terimakasih",
+    "pengertian": "Rasa syukur (ditulis terpisah)"
+  },
+  {
+    "baku": "tim",
+    "tak-baku": "team",
+    "pengertian": "Kelompok; regu"
+  },
+  {
+    "baku": "tobat",
+    "tak-baku": "taubat",
+    "pengertian": "Sadar dan menyesal akan dosa (perbuatan salah)"
+  },
+  {
+    "baku": "ubah",
+    "tak-baku": "rubah",
+    "pengertian": "Tukar; ganti (kata dasar)"
+  },
+  {
+    "baku": "utang",
+    "tak-baku": "hutang",
+    "pengertian": "Uang yang dipinjam dari orang lain"
+  },
+  {
+    "baku": "yudikatif",
+    "tak-baku": "judikatif",
+    "pengertian": "Bersangkutan dengan fungsi dan pelaksanaan peradilan"
+  },
+  {
+    "baku": "zaman",
+    "tak-baku": "jaman",
+    "pengertian": "Jangka waktu yang panjang atau pendek; masa"
+  },
+  {
+    "baku": "zamrud",
+    "tak-baku": "jamrud",
+    "pengertian": "Batu permata berwarna hijau"
+  },
+  {
+    "baku": "zona",
+    "tak-baku": "zone",
+    "pengertian": "Daerah; kawasan"
+  },
+  {
+    "baku": "zuhur",
+    "tak-baku": "dzuhur / lohor",
+    "pengertian": "Waktu tengah hari; salat wajib pada tengah hari"
+  }
 ]
