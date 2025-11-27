@@ -69,9 +69,9 @@ const GamePage = () => {
   const answerRight = useMemo(() => logAnswer.filter(v => v.isAnswerRight), [logAnswer])
 
   return (
-    <div className="px-4 my-4">
+    <div className="min-h-screen flex items-center justify-center px-4">
 
-      <div className='container mx-auto'>
+      <div className='w-full max-w-[600px]'>
         <Card className='max-w-[600px] mx-auto'>
           <CardHeader>
             <CardTitle className='text-2xl text-center'>Game Tebak Kata Baku</CardTitle>
